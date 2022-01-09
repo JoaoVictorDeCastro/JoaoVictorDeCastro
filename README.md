@@ -1,4 +1,4 @@
-<h2> Oi! Eu sou o João Victor! 🖖 </h2>
+<h3> Oi! Eu sou o João Victor! 🖖 </h3>
 <hr>
 <div align="left
   
@@ -8,7 +8,7 @@
   <div style="display: inline_block"><br>
   <hr>
                                     
-  <h3> Essas são as linguagens/plataformas que estou aprendendo no momento: </h3>
+  <h4> Essas são as linguagens/plataformas que estou aprendendo no momento: </h4>
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
@@ -20,7 +20,7 @@
 </div>
     
 <div align="left">
-                 <h3>  Formas de contato: </h3>
+                 <h4>  Formas de contato: </h4>
  <a href="https://www.instagram.com/j_victordc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "joaovictordecastrofaria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <hr>
