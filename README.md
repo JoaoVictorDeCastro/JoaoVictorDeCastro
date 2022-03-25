@@ -1,4 +1,4 @@
-<h3> Oi! Eu sou o João Victor! 🖖 </h3>
+<h3> Oi! Eu sou o João Victor! </h3>
 <hr>
 <div align="left
   
